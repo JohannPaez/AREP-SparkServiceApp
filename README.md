@@ -29,4 +29,4 @@ Para correr el servidor de funcionalidad, se utiliza el siguiente comando:
 
 Disponible en:
 
-- https://hub.docker.com/repository/docker/najoh2907/sparkserviceapp
+- https://hub.docker.com/r/najoh2907/sparkserviceapp.
